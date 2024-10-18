@@ -1,21 +1,22 @@
 ### Welcome!<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-Hello Folks, Lawrence served as Cloud Support Engineer at Amazon Web Service </br>
 
-Focus on:
-* Amazon Direct Connect
-* Amazon VPN
-* Amazon ELB
-* Amazon Global Accelerator
-* Amazon Route53
-* Amazon WAF
-* Amazon CloudWatch
-* Amazon ECS
-* Amazon EKS
-* AWS Cloudformation
-* AWS CDK
-* AWS CodeCommit
-* AWS CodeBuild
-* AWS CodeDeploy
+Hi I'm Lawrence Chen, a cloud computing trailblazer with a passion for igniting innovation. My journey began at eCloudvalley, where I crafted AWS and Azure training modules that electrified user engagement by 50%. As a Solutions Architect, I spearheaded Azure migration projects and led cloud strategy workshops that sparked new possibilities. But I didn't stop there. I joined Amazon Web Services in Dublin as a Cloud Support Engineer, fearlessly tackling the most intricate networking puzzles. I'm ready to unleash my full potential and revolutionize the world of cloud computing.
+
+</br>
+
+--- Area of Specialized Expertise --- 
+• Security services for web application protection, firewall management, network traffic control, optimizing network tools, and DDoS protection.
+• Network traffic distribution using Elastic Load Balancer, Nginx.
+• Optimized network services like AWS Global Accelerator.
+• Cybersecurity tools such as WAF (Web Application Firewall), Firewall Manager, and AWS Shield.
+• Creating isolated network environments with AWS VPC, VPC peering, Transit Gateway, VPN, and Direct Connect to on-premises infrastructure, including cross-region configurations.
+• DNS management using AWS Route 53, Resolver, and DNS Firewall.
+
+--- Networking Fundamentals --- 
+TCP/IP, routing, VLANs, DHCP, VPN, load balancing, HTTP(S), DNS, DNSSEC, UDP, SSL/TLS, BGP, MPLS.
+
+--- Developing Skills --- 
+Infrastructure as Code (Terraform, CDK, CloudFormation), Programming Languages (JavaScript, TypeScript).
 
 
 
