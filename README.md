@@ -100,8 +100,20 @@ Cloud computing trailblazer with a passion for igniting innovation. My journey b
 <!-- GitHub Activity Section -->
 ## 📈 GitHub Activity
 
-<!-- Use GitHub Readme Activity Graph -->
-![Lawrence's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=techwithlc&theme=react-dark)
+<!-- Use modern GitHub activity visualization -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithlc&theme=tokyonight" alt="Lawrence's streak stats"/>
+</div>
 
-<!-- Add this at the bottom to ensure all contributions are counted -->
-![](https://hit.yhype.me/github/profile?user_id=techwithlc)
+<!-- Contribution snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- For the contribution snake animation to work, you need to set up a GitHub Action workflow -->
+<!-- Create .github/workflows/snake.yml with appropriate configuration -->
+
+<!-- Alternative: GitHub contribution calendar -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithlc&theme=tokyonight" alt="Lawrence's GitHub Stats Graph"/>
