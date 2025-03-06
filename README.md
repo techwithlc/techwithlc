@@ -88,7 +88,6 @@ Cloud computing trailblazer with a passion for igniting innovation. My journey b
   <img src="https://komarev.com/ghpvc/?username=techwithlc&color=blueviolet&style=flat-square" alt="Profile views"/>
 </div>
 
-<!-- Recent Projects Section -->
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -97,23 +96,8 @@ Cloud computing trailblazer with a passion for igniting innovation. My journey b
   </a>
 </div>
 
-<!-- GitHub Activity Section -->
 ## 📈 GitHub Activity
-
-<!-- Use modern GitHub activity visualization -->
+<!-- GitHub Profile Summary Cards -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwithlc&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithlc&theme=tokyonight" alt="Lawrence's GitHub contribution summary"/>
 </div>
-
-<!-- Contribution snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake.svg" />
-  < src="https://raw.githubusercontent.com/techwithlc/techwithlc/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- For the contribution snake animation to work, you need to set up a GitHub Action workflow -->
-<!-- Create .github/workflows/snake.yml with appropriate configuration -->
-
-<!-- Alternative: GitHub contribution calendar -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithlc&theme=tokyonight" alt="Lawrence's GitHub Stats Graph"/>
