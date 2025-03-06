@@ -8,7 +8,7 @@
 
 ## About Me
 
-Cloud computing trailblazer with a passion for igniting innovation. My journey began at eCloudvalley, where I crafted AWS and Azure training modules that electrified user engagement by 50%. As a Solutions Architect, I spearheaded Azure migration projects and led cloud strategy workshops that sparked new possibilities. At Amazon Web Services in Dublin, I worked as a Cloud Support Engineer, tackling complex networking challenges. I'm committed to revolutionizing cloud computing with my expertise and creative problem-solving skills.
+https://techwithlc.com/
 
 ## 🔧 Area of Specialized Expertise 
 
