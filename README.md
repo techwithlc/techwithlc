@@ -8,7 +8,7 @@
 
 ## About Me
 
-techwithlc.com
+![techwithlc.com](https://techwithlc.com)
 
 ## 🔧 Area of Specialized Expertise 
 
