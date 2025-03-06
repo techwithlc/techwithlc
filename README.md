@@ -33,16 +33,13 @@
 ## 🚀 Developing Skills
 - **Infrastructure as Code:** Terraform, AWS CDK, CloudFormation
 - **Programming:** JavaScript, TypeScript, Python
-- **CI/CD:** GitHub Actions, AWS CodePipeline
+- **CI/CD:** GitHub Actions, AWS CodePipeline, Bitbucket, Jenkins
 
 ## 📱 Connect With Me
 
 <div>
-  <a href="https://www.youtube.com/c/AWSLC" target="_blank">
+  <a href="https://www.youtube.com/c/techwithlc" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/awslc0921" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://t.me/awslc" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
