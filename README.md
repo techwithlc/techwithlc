@@ -59,40 +59,5 @@
   <img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white" alt="Terminal">
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/techwithlc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=techwithlc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Lawrence's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwithlc&layout=compact&theme=tokyonight" alt="Lawrence's Top Languages"/>
-  </a>
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/techwithlc">
-    <img src="https://github-profile-trophy.vercel.app/?username=techwithlc&theme=nord&column=7" alt="trophy"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=techwithlc&color=blueviolet&style=flat-square" alt="Profile views"/>
-</div>
-
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/techwithlc/LineGPT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techwithlc&repo=LineGPT&theme=tokyonight" />
-  </a>
-</div>
-
-## 📈 GitHub Activity
-<!-- GitHub Profile Summary Cards -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithlc&theme=tokyonight" alt="Lawrence's GitHub contribution summary"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/techwithlc/techwithlc/master/profile-3d-contrib/profile-night-green.svg">
 </div>
