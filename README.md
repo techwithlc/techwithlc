@@ -1,14 +1,20 @@
-# 👨‍💻 Lawrence Chen - Cloud Computing Professional
+<div align="center"> 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certified">
-  <img src="https://img.shields.io/badge/Azure-Expert-blue?style=for-the-badge&logo=microsoft-azure" alt="Azure Expert">
-  <img src="https://img.shields.io/badge/Cloud-Architecture-lightblue?style=for-the-badge&logo=icloud" alt="Cloud Architecture">
-</div>
+ Hi 👋  I'm Lawrence Chen! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-## About Me
+ 🧑‍💻 Cloud Computing Professional
 
-[techwithlc.com](https://techwithlc.com)
+ 🔒 Cloud Security Specialist
+ 
+[linkedin]: https://img.shields.io/static/v1?label=&message=LinkedIn&&color=3B3B7A&logo=linkedin
+[youtube]: https://img.shields.io/static/v1?label=&message=YouTube&color=3B3B7A&logo=youtube
+[telegram]: https://img.shields.io/static/v1?label=&message=Telegram&color=3B3B7A&logo=telegram
+[website]: https://img.shields.io/static/v1?label=&message=Website&color=3B3B7A&logo=safari
+
+[![linkedin]](https://www.linkedin.com/in/techwithlc/)
+[![youtube]](https://www.youtube.com/@techwithlc)
+[![telegram]](https://t.me/techwithlc)
+[![website]](https://techwithlc.com)
 
 ## 🔧 Area of Specialized Expertise 
 
@@ -34,17 +40,6 @@
 - **Infrastructure as Code:** Terraform, AWS CDK, CloudFormation
 - **Programming:** JavaScript, TypeScript, Python
 - **CI/CD:** GitHub Actions, AWS CodePipeline, Bitbucket, Jenkins
-
-## 📱 Connect With Me
-
-<div>
-  <a href="https://www.youtube.com/@techwithlc" target="_blank">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube" alt="YouTube">
-  </a>
-  <a href="https://t.me/techwithlc" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</div>
 
 ## 💻 Technologies & Tools
 
@@ -97,4 +92,7 @@
 <!-- GitHub Profile Summary Cards -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techwithlc&theme=tokyonight" alt="Lawrence's GitHub contribution summary"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/techwithlc/techwithlc/master/profile-3d-contrib/profile-night-green.svg">
 </div>
